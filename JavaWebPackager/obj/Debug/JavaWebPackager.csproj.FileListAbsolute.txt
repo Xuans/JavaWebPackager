@@ -1,0 +1,9 @@
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\bin\Debug\JavaWebPackager.exe
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\bin\Debug\JavaWebPackager.pdb
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.csprojAssemblyReference.cache
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.MainForm.resources
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.Properties.Resources.resources
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.csproj.GenerateResource.cache
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.csproj.CoreCompileInputs.cache
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.exe
+Z:\lijiancheng\Xuans\Yips\JavaWebPackager\JavaWebPackager\obj\Debug\JavaWebPackager.pdb
