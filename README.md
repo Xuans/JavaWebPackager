@@ -28,6 +28,10 @@
      
      增量打包完之后，会根据打包项目 `Source Path` 与基础项目 `Base Path ` 使用 MD5 对比，将不同的文件放在 `Target Path` 下的 `Additional` 下的文件夹。
      
+     ![](https://raw.githubusercontent.com/Xuans/JavaWebPackager/master/docs/3.jpg)
+     
+     **需要注意：如果两个版本没有不同，将不会建立增量包 `Additional` 文件夹。**
+     
   1. 增加部署回滚
   
      如果需要将增量部署的版本（版本B）部署到服务器后，需要将回滚到上一个版本（版本A），只要将需版本A作为 `Source Path`
