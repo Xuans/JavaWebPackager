@@ -2,11 +2,10 @@
 
 > Java Web 打出全量包或增量包
 
-> 需要注意的是，全量和增量包不提供打成 war 包或 tar 包的功能，近提供文件比对功能。
+> 需要注意的是，全量和增量包不提供打成 war 包或 tar 包的功能，仅供文件比对功能。
 
 
 ---
-
 
 ## Usage | 用法
 
@@ -36,6 +35,17 @@
   
      如果需要将增量部署的版本（版本B）部署到服务器后，需要将回滚到上一个版本（版本A），只要将需版本A作为 `Source Path`
 ，版本B作为 `Base Path` ，重新打包，增量包即为需要回滚的版本。
+
+
+## .Net 4 支持
+
+如果出现如下问题：
+
+![](https://raw.githubusercontent.com/Xuans/JavaWebPackager/master/docs/4.jpg)
+
+请下载安装 .net framework 4.0 或更高版本：https://www.microsoft.com/zh-CN/download/details.aspx?id=17718
+
+## License
 
 Written By C#
 
